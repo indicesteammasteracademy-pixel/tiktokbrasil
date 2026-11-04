@@ -2,7 +2,7 @@
   //  1) Pega aquí la URL de tu Apps Script (termina en /exec)
   //  Mientras no la pongas, se muestran las clases de ejemplo de BASE.
   // =====================================================
-  const API = "PEGA_AQUI_LA_URL_DE_APPS_SCRIPT";
+  const API = "https://script.google.com/macros/s/AKfycbwSiDVmUk82HA9iKVLG9pozRA6eBqLGmWSvRnJI2CwuTZQ6tyKlhSusAOOucDj-BmKN3Q/exec";
 
   const BASE = [
     { titulo: "Clase de ejemplo", link: "", locked: true }
